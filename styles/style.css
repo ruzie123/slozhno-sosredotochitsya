@@ -1,6 +1,5 @@
 /* Основные стили проекта. Это стили для темы, которую вы верстаете первой. */
 .page {
-  padding: 10px;
   background-image: url(../images/cover-image-dark.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -267,9 +266,6 @@
 
 .text-link {
   text-decoration: none;
-}
-
-.text-link {
   text-shadow: 2px 2px 0px var(--accent-color);
 }
 
@@ -284,7 +280,6 @@
 
 @media (768px <= width) {
   .page {
-    padding: 20px;
     padding-left: 0;
   }
 
