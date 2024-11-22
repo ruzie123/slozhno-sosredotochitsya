@@ -11,6 +11,8 @@
   --text-shadow-color: rgb(255, 141, 203);
   --border-color: rgb(52, 53, 48);
   --botton-text-color: rgba(53, 52, 48);
+  --border-link-color: rgb(52, 53, 48);
+  --botton-hover-color: rgba(50, 49, 45, 0.4);
   background-image: url(../images/cover-image-light.png);
 }
 
@@ -32,6 +34,8 @@
   --text-shadow-color: rgb(255, 141, 203);
   --border-color: rgb(52, 53, 48);
   --botton-text-color: rgba(53, 52, 48);
+  --border-link-color: rgb(52, 53, 48);
+  --botton-hover-color: rgba(50, 49, 45, 0.4);
   }
 
   .rec-decoration {

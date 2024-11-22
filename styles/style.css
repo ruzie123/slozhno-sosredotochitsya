@@ -112,7 +112,7 @@
 }
 
 .header__theme-menu-button:hover {
-  border: 1px solid var(--border-color);
+  border: 1px solid var(--botton-hover-color);
 }
 
 .header__theme-menu-button:focus-visible {
@@ -289,12 +289,12 @@
 }
 
 .text-link:hover {
-  border-bottom: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-link-color);
 }
 
 .text-link:focus-visible {
   outline: none;
-  border: 1px solid var(--text-color);
+  border: 1px solid var(--border-link-color);
 }
 
 @media (768px <= width) {
