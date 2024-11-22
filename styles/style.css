@@ -256,7 +256,7 @@
   text-shadow: 2px 2px 0 var(--title-shadow-color);
 }
 
-.decorated-zone::before {
+.footer .decorated-zone::before {
   content: "";
   display: flex;
   flex-direction: column;
@@ -270,7 +270,7 @@
   padding: 20px 20px 0 0;
 }
 
-.decorated-zone::after {
+.footer .decorated-zone::after {
   display: flex;
   content: "";
   width: 25px;
