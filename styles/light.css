@@ -2,9 +2,9 @@
   --decor-color: rgb(52, 53, 48);
   --bg-color: rgb(255 241 247);
   --accent-color: rgb(255, 141, 203);
-  --h1-color: rgba(255, 194, 230);
-  --h2-color: rgb(52, 53, 48);
-  --h3-h4-color: rgb(52, 53, 48);
+  --title-color: rgba(255, 194, 230);
+  --subtitle-color: rgb(52, 53, 48);
+  --content-title-color: rgb(52, 53, 48);
   --text-color: rgb(52, 53, 48);
   --accent-text-color: rgb(52, 53, 48);
   --title-shadow-color: rgb(255, 141, 203);
@@ -23,9 +23,9 @@
   --decor-color: rgb(52, 53, 48);
   --bg-color: rgb(255 241 247);
   --accent-color: rgb(255, 141, 203);
-  --h1-color: rgba(255, 194, 230);
-  --h2-color: rgb(52, 53, 48);
-  --h3-h4-color: rgb(52, 53, 48);
+  --title-color: rgba(255, 194, 230);
+  --subtitle-color: rgb(52, 53, 48);
+  ---content-title-color: rgb(52, 53, 48);
   --text-color: rgb(52, 53, 48);
   --accent-text-color: rgb(52, 53, 48);
   --title-shadow-color: rgb(255, 141, 203);

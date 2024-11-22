@@ -2,9 +2,9 @@
 .page.theme_dark {
   --bg-color: rgb(0, 0, 40);
   --accent-color: rgb(255, 0, 112);
-  --h1-color: rgb(219, 0, 255);
-  --h2-color: rgb(255, 0, 112);
-  --h3-h4-color: rgb(0, 0, 40);
+  --title-color: rgb(219, 0, 255);
+  --subtitle-color: rgb(255, 0, 112);
+  --content-title-color: rgb(0, 0, 40);
   --text-color: rgb(241, 178, 206);
   --accent-text-color: rgb(0, 0, 40);
   --title-shadow-color: rgb(255, 0, 112);
