@@ -16,3 +16,7 @@
   --botton-hover-color: rgba(255, 0, 112, 0.4);
   background-image: url(../images/cover-image-dark.png);
 }
+
+.theme_dark .rec-decoration {
+  display: block;
+}
