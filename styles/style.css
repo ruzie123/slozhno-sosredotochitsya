@@ -15,6 +15,7 @@
   display: grid;
   grid-template-rows: 1fr min-content 1fr;
   block-size: 100vh;
+  min-block-size: 668px;
 }
 
 .rec-decoration {
@@ -243,6 +244,7 @@
   padding: 10px;
   display: flex;
   block-size: 100vh;
+  min-block-size: 668px;
 }
 
 .footer__title {
@@ -256,7 +258,7 @@
   text-shadow: 2px 2px 0 var(--title-shadow-color);
 }
 
-.footer .decorated-zone::before {
+.decorated-zone::before {
   content: "";
   display: flex;
   flex-direction: column;
@@ -270,7 +272,7 @@
   padding: 20px 20px 0 0;
 }
 
-.footer .decorated-zone::after {
+.decorated-zone::after {
   display: flex;
   content: "";
   width: 25px;
